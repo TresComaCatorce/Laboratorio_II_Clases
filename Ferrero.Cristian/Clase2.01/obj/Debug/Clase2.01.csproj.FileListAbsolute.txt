@@ -1,0 +1,6 @@
+D:\FerreroCristian\Ferrero.Cristian\Clase2.01\bin\Debug\Clase2.01.exe.config
+D:\FerreroCristian\Ferrero.Cristian\Clase2.01\bin\Debug\Clase2.01.exe
+D:\FerreroCristian\Ferrero.Cristian\Clase2.01\bin\Debug\Clase2.01.pdb
+D:\FerreroCristian\Ferrero.Cristian\Clase2.01\obj\Debug\Clase2.01.csprojResolveAssemblyReference.cache
+D:\FerreroCristian\Ferrero.Cristian\Clase2.01\obj\Debug\Clase2.01.exe
+D:\FerreroCristian\Ferrero.Cristian\Clase2.01\obj\Debug\Clase2.01.pdb
