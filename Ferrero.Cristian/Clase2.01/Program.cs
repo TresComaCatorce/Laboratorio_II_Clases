@@ -10,8 +10,28 @@ namespace Clase2._01
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine(Comparador.RetornarMayor(17,8));
-            Comparador.MostrarElDelMedio(7,5,7);
+            Console.Title = "Programación II - Clase 2 21-03-2017";
+
+            //Setteo el mensaje y el color
+            Sello.mensaje = "mensaje_test";
+            Sello.color = ConsoleColor.Magenta;
+            Sello.colorFondo = ConsoleColor.DarkMagenta;
+
+            //Imprimo el mensaje sin color
+            Console.WriteLine(Sello.Imprimir());
+
+            //Imprimo el mensaje con color
+            Sello.ImprimirEnColor();
+
+            //Imprimo el mensaje sin color
+            Console.WriteLine(Sello.Imprimir());
+
+            //Borro el mensaje
+            Sello.Borrar();
+
+            //Imprimo el mensaje
+            //Console.WriteLine(Sello.Imprimir());
+
             Console.ReadKey();
         }
     }
