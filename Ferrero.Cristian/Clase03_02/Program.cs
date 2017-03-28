@@ -18,6 +18,9 @@ namespace Clase03_02
 
             rueda2.marca = "Fate";
             rueda2.tamanio = 175;
+
+            Console.WriteLine(rueda1.Mostrar());
+            Console.WriteLine(rueda2.Mostrar());
         }
     }
 }

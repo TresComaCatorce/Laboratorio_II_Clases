@@ -10,5 +10,14 @@ namespace Clase03_02
     {
         public string marca;
         public int tamanio;
+
+        public string Mostrar()
+        {
+            string retorno;
+
+            retorno = this.marca + ", " + this.tamanio;
+
+            return retorno;
+        }
     }
 }
