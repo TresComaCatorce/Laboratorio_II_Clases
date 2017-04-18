@@ -3,3 +3,6 @@ D:\FerreroCristian\Laboratorio_II_Clases\Ferrero.Cristian\Clase03_02\bin\Debug\C
 D:\FerreroCristian\Laboratorio_II_Clases\Ferrero.Cristian\Clase03_02\bin\Debug\Clase03_02.pdb
 D:\FerreroCristian\Laboratorio_II_Clases\Ferrero.Cristian\Clase03_02\obj\Debug\Clase03_02.exe
 D:\FerreroCristian\Laboratorio_II_Clases\Ferrero.Cristian\Clase03_02\obj\Debug\Clase03_02.pdb
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase03_02\bin\Debug\Clase03_02.exe.config
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase03_02\obj\Debug\Clase03_02.exe
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase03_02\obj\Debug\Clase03_02.pdb
