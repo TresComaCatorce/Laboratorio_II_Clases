@@ -1,0 +1,5 @@
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.09.05.2017_Herencia\bin\Debug\Clase.09.05.2017_Herencia.exe.config
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.09.05.2017_Herencia\bin\Debug\Clase.09.05.2017_Herencia.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.09.05.2017_Herencia\bin\Debug\Clase.09.05.2017_Herencia.pdb
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.09.05.2017_Herencia\obj\Debug\Clase.09.05.2017_Herencia.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.09.05.2017_Herencia\obj\Debug\Clase.09.05.2017_Herencia.pdb

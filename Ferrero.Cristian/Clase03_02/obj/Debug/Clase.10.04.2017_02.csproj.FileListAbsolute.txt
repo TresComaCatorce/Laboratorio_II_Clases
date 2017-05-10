@@ -1,0 +1,5 @@
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase03_02\bin\Debug\Clase03_02.exe.config
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase03_02\bin\Debug\Clase03_02.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase03_02\bin\Debug\Clase03_02.pdb
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase03_02\obj\Debug\Clase03_02.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase03_02\obj\Debug\Clase03_02.pdb

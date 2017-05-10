@@ -1,0 +1,5 @@
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.17.04.2017_02_Cola\bin\Debug\Clase.17.04.2017_02_Cola.exe.config
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.17.04.2017_02_Cola\bin\Debug\Clase.17.04.2017_02_Cola.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.17.04.2017_02_Cola\bin\Debug\Clase.17.04.2017_02_Cola.pdb
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.17.04.2017_02_Cola\obj\Debug\Clase.17.04.2017_02_Cola.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.17.04.2017_02_Cola\obj\Debug\Clase.17.04.2017_02_Cola.pdb
