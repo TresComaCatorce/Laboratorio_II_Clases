@@ -3,3 +3,4 @@ D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase2.01\bin\Debug\Clase2.01.exe
 D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase2.01\bin\Debug\Clase2.01.pdb
 D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase2.01\obj\Debug\Clase2.01.exe
 D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase2.01\obj\Debug\Clase2.01.pdb
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase2.01\obj\Debug\Clase.2017.04.04_01.csprojResolveAssemblyReference.cache

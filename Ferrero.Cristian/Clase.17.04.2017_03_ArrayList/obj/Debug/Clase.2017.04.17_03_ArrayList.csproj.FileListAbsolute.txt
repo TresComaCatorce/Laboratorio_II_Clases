@@ -1,0 +1,5 @@
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.17.04.2017_03_ArrayList\bin\Debug\Clase.17.04.2017_03_ArrayList.exe.config
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.17.04.2017_03_ArrayList\bin\Debug\Clase.17.04.2017_03_ArrayList.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.17.04.2017_03_ArrayList\bin\Debug\Clase.17.04.2017_03_ArrayList.pdb
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.17.04.2017_03_ArrayList\obj\Debug\Clase.17.04.2017_03_ArrayList.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.17.04.2017_03_ArrayList\obj\Debug\Clase.17.04.2017_03_ArrayList.pdb

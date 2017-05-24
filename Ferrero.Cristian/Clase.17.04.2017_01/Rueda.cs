@@ -8,7 +8,7 @@ namespace Clase._17._04._2017_01
 {
     class Rueda
     {
-        public string marca;
+        /*public string marca;
         public int tamanio;
 
         public string Mostrar()
@@ -18,6 +18,6 @@ namespace Clase._17._04._2017_01
             retorno = this.marca + ", " + this.tamanio;
 
             return retorno;
-        }
+        }*/
     }
 }

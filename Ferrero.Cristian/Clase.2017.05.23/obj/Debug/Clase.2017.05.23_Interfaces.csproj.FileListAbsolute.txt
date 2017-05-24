@@ -1,0 +1,6 @@
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.05.23\bin\Debug\Clase.2017.05.23.exe.config
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.05.23\bin\Debug\Clase.2017.05.23.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.05.23\bin\Debug\Clase.2017.05.23.pdb
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.05.23\obj\Debug\Clase.2017.05.23.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.05.23\obj\Debug\Clase.2017.05.23.pdb
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.05.23\obj\Debug\Clase.2017.05.23_Interfaces.csprojResolveAssemblyReference.cache
