@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clase._2017._05._29_01
 {
+    [Serializable]
     public class Persona
     {
 
@@ -35,7 +36,6 @@ namespace Clase._2017._05._29_01
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("");
             sb.AppendLine("Nombre: "+this._nombre);
             sb.AppendLine("Edad: "+this._edad.ToString());
             sb.AppendLine("Es Mayor: "+this._esMayor.ToString());

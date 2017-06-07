@@ -1,0 +1,8 @@
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_02_test_conexion_bd\bin\Debug\Clase.2017.06.06_02_test_conexion_bd.exe.config
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_02_test_conexion_bd\bin\Debug\Clase.2017.06.06_02_test_conexion_bd.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_02_test_conexion_bd\bin\Debug\Clase.2017.06.06_02_test_conexion_bd.pdb
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_02_test_conexion_bd\bin\Debug\Clase.2017.06.06_01_Acceso_a_BD.dll
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_02_test_conexion_bd\bin\Debug\Clase.2017.06.06_01_Acceso_a_BD.pdb
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_02_test_conexion_bd\obj\Debug\Clase.2017.06.06_02_test_conexion_bd.csprojResolveAssemblyReference.cache
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_02_test_conexion_bd\obj\Debug\Clase.2017.06.06_02_test_conexion_bd.exe
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_02_test_conexion_bd\obj\Debug\Clase.2017.06.06_02_test_conexion_bd.pdb

@@ -1,0 +1,6 @@
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_01_Acceso_a_BD\bin\Debug\Clase.2017.06.06_01_Acceso_a_BD.dll.config
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_01_Acceso_a_BD\bin\Debug\Clase.2017.06.06_01_Acceso_a_BD.dll
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_01_Acceso_a_BD\bin\Debug\Clase.2017.06.06_01_Acceso_a_BD.pdb
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_01_Acceso_a_BD\obj\Debug\Clase.2017.06.06_01_Acceso_a_BD.csprojResolveAssemblyReference.cache
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_01_Acceso_a_BD\obj\Debug\Clase.2017.06.06_01_Acceso_a_BD.dll
+D:\FerreroCristian\Lab2Clases\Ferrero.Cristian\Clase.2017.06.06_01_Acceso_a_BD\obj\Debug\Clase.2017.06.06_01_Acceso_a_BD.pdb

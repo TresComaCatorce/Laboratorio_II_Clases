@@ -1,0 +1,24 @@
+Nombre: Iggy Pop
+Edad: 68
+Es Mayor: True
+
+Nombre: Ian Curtis
+Edad: 27
+Es Mayor: True
+
+Nombre: Iggy Pop
+Edad: 68
+Es Mayor: True
+
+Nombre: Ian Curtis
+Edad: 27
+Es Mayor: True
+
+Nombre: Iggy Pop
+Edad: 68
+Es Mayor: True
+
+Nombre: Ian Curtis
+Edad: 27
+Es Mayor: True
+
