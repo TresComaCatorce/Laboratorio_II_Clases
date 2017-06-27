@@ -1,0 +1,8 @@
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_test\bin\Debug\Clase.2017.06.27_test.exe.config
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_test\bin\Debug\Clase.2017.06.27_test.exe
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_test\bin\Debug\Clase.2017.06.27_test.pdb
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_test\bin\Debug\Clase.2017.06.27.dll
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_test\bin\Debug\Clase.2017.06.27.pdb
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_test\obj\Debug\Clase.2017.06.27_test.csprojResolveAssemblyReference.cache
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_test\obj\Debug\Clase.2017.06.27_test.exe
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_test\obj\Debug\Clase.2017.06.27_test.pdb

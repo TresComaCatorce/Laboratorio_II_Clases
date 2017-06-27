@@ -1,0 +1,11 @@
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\bin\Debug\Clase.2017.06.27_WindowForm.exe.config
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\bin\Debug\Clase.2017.06.27_WindowForm.exe
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\bin\Debug\Clase.2017.06.27_WindowForm.pdb
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\bin\Debug\Clase.2017.06.27.dll
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\bin\Debug\Clase.2017.06.27.pdb
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\obj\Debug\Clase.2017.06.27_WindowForm.csprojResolveAssemblyReference.cache
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\obj\Debug\Clase._2017._06._27_WindowForm.Form1.resources
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\obj\Debug\Clase._2017._06._27_WindowForm.Properties.Resources.resources
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\obj\Debug\Clase.2017.06.27_WindowForm.csproj.GenerateResource.Cache
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\obj\Debug\Clase.2017.06.27_WindowForm.exe
+D:\FerreroCristian\Clases\Ferrero.Cristian\Clase.2017.06.27_WindowForm\obj\Debug\Clase.2017.06.27_WindowForm.pdb
