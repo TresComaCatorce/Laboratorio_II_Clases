@@ -7,3 +7,14 @@ D:\Mis Documentos\Visual Studio 2012\Projects\TrabajoPracticoPseudoFinal\Layout\
 D:\Mis Documentos\Visual Studio 2012\Projects\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.csproj.GenerateResource.Cache
 D:\Mis Documentos\Visual Studio 2012\Projects\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.exe
 D:\Mis Documentos\Visual Studio 2012\Projects\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.pdb
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\bin\Debug\Layout.exe.config
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.exe
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.pdb
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\bin\Debug\Layout.exe
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\bin\Debug\Layout.pdb
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.csprojResolveAssemblyReference.cache
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.frmDatos.resources
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.frmMostrar.resources
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.Form1.resources
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.Properties.Resources.resources
+D:\FerreroCristian\Clases\TrabajoPracticoPseudoFinal\Layout\obj\Debug\Layout.csproj.GenerateResource.Cache

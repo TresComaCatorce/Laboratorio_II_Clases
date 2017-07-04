@@ -21,7 +21,7 @@ namespace Layout
         {
             string dato = this.tbxDato.Text;
 
-            
+            ((Form1)this.Owner).miDelegado(dato);
         }
     }
 }
